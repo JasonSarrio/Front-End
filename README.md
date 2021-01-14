@@ -46,7 +46,7 @@ Trello, Slack, Zendesk
 -   What 3rd party frameworks/libraries are you considering using?
     
 
-Redux, react, less, formik,
+Redux, react, less, formik, lol 
 
 -   Do the APIs you need require you to contact them to gain access?
     
